@@ -34,6 +34,6 @@
     }
 
     const sorteado = amigos[Math.floor(Math.random()*amigos.length)];
-  
+    console.log("Sorteado:", sorteado);
     document.getElementById("resultado").textContent = 'O amigo secreto é: + ${(sorteado)}';
  }
