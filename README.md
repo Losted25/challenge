@@ -4,6 +4,10 @@
 
 
 🚀Recursos do Projeto
+
+
 ✅ Adicionar nomes à lista
+
 ✅ Exibir lista de participantes
+
 ✅ Sortear um nome aleatório
